@@ -1,28 +1,34 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-app-bar app color="primary" dark>
+      <div class="d-flex align-center">
+        <span class="mr-2">The Constellations</span>
+      </div>
+    </v-app-bar>
+
+    <v-main>
+      <SelectConstellation />
+      <ConstellationInfo />
+      <ConstellationMap />
+    </v-main>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import SelectConstellation from './components/SelectConstellation';
+import ConstellationInfo from './components/ConstellationInfo';
+import ConstellationMap from './components/ConstellationMap';
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
-}
-</script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+  components: {
+    ConstellationInfo,
+    ConstellationMap,
+    SelectConstellation,
+  },
+
+  data: () => ({
+    //
+  }),
+};
+</script>

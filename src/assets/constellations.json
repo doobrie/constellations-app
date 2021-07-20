@@ -1,0 +1,447 @@
+[
+  {
+    "text": "Andromeda",
+    "value": "And",
+    "description": "The Chained Maiden"
+  },
+  {
+    "text": "Andlia",
+    "value": "Ant",
+    "description": "The Air Pump"
+  },
+  {
+    "text": "Apus",
+    "value": "Aps",
+    "description": "The Bird of Paradise"
+  },
+  {
+    "text": "Aquarius",
+    "value": "Aqr",
+    "description": "The Water Bearer"
+  },
+  {
+    "text": "Aquila",
+    "value": "Aql",
+    "description": "The Eagle"
+  },
+  {
+    "text": "Ara",
+    "value": "Ara",
+    "description": "The Altar"
+  },
+  {
+    "text": "Aries",
+    "value": "Ari",
+    "description": "The Ram"
+  },
+  {
+    "text": "Auriga",
+    "value": "Aur",
+    "description": "The Charioteer"
+  },
+  {
+    "text": "Boötes",
+    "value": "Boo",
+    "description": "The Herdsman"
+  },
+  {
+    "text": "Caelum",
+    "value": "Cae",
+    "description": "The Engraving Tool"
+  },
+  {
+    "text": "Camelopardalis",
+    "value": "Cam",
+    "description": "The Giraffe"
+  },
+  {
+    "text": "Cancer",
+    "value": "Cnc",
+    "description": "The Crab"
+  },
+  {
+    "text": "Canes Venatici",
+    "value": "CVn",
+    "description": "The Hunting Dogs"
+  },
+  {
+    "text": "Canis Major",
+    "value": "CMa",
+    "description": "The Great Dog"
+  },
+  {
+    "text": "Canis Minor",
+    "value": "CMi",
+    "description": "The Lesser Dog"
+  },
+  {
+    "text": "Capricornus",
+    "value": "Cap",
+    "description": "The Sea Goat"
+  },
+  {
+    "text": "Carina",
+    "value": "Car",
+    "description": "The Keel"
+  },
+  {
+    "text": "Cassiopeia",
+    "value": "Cas",
+    "description": "The Seated Queen"
+  },
+  {
+    "text": "Centaurus",
+    "value": "Cen",
+    "description": "The Centaur"
+  },
+  {
+    "text": "Cepheus",
+    "value": "Cep",
+    "description": "The King"
+  },
+  {
+    "text": "Cetus",
+    "value": "Cet",
+    "description": "The Sea Monster"
+  },
+  {
+    "text": "Chamaeleon",
+    "value": "Cha",
+    "description": "The Chameleon"
+  },
+  {
+    "text": "Circinus",
+    "value": "Cir",
+    "description": "The Compass"
+  },
+  {
+    "text": "Columba",
+    "value": "Col",
+    "description": "The Dove"
+  },
+  {
+    "text": "Coma Berenices",
+    "value": "Com",
+    "description": "The Bernice's Hair"
+  },
+  {
+    "text": "Corona Australis",
+    "value": "Cra",
+    "description": "The Southern Crown"
+  },
+  {
+    "text": "Corona Borealis",
+    "value": "Crb",
+    "description": "The Northern Crown"
+  },
+  {
+    "text": "Corvus",
+    "value": "Crv",
+    "description": "The Crow"
+  },
+  {
+    "text": "Crater",
+    "value": "Crt",
+    "description": "The Cup"
+  },
+  {
+    "text": "Crux",
+    "value": "Boo",
+    "description": "The Southern Cross"
+  },
+  {
+    "text": "Cygnus",
+    "value": "Cyg",
+    "description": "The Swan"
+  },
+  {
+    "text": "Delphinus",
+    "value": "De;",
+    "description": "The Dolphin"
+  },
+  {
+    "text": "Dorado",
+    "value": "Dor",
+    "description": "The Swordfish"
+  },
+  {
+    "text": "Draco",
+    "value": "Dra",
+    "description": "The Dragon"
+  },
+  {
+    "text": "Equuleus",
+    "value": "Equ",
+    "description": "The Little Horse"
+  },
+  {
+    "text": "Eridanus",
+    "value": "Eri",
+    "description": "The River"
+  },
+  {
+    "text": "Fornax",
+    "value": "For",
+    "description": "The Furnace"
+  },
+  {
+    "text": "Gemini",
+    "value": "Gem",
+    "description": "The Twins"
+  },
+  {
+    "text": "Grus",
+    "value": "Gru",
+    "description": "The Crane"
+  },
+  {
+    "text": "Hercules",
+    "value": "Her",
+    "description": "The Hercules"
+  },
+  {
+    "text": "Horologium",
+    "value": "Hor",
+    "description": "The Clock"
+  },
+  {
+    "text": "Cygnus",
+    "value": "Cyg",
+    "description": "The Swan"
+  },
+  {
+    "text": "Hydra",
+    "value": "Hya",
+    "description": "The Female Water Snake"
+  },
+  {
+    "text": "Hydrus",
+    "value": "Hyi",
+    "description": "The Male Water Snake"
+  },
+  {
+    "text": "Indus",
+    "value": "Ind",
+    "description": "The Indian"
+  },
+  {
+    "text": "Lacerta",
+    "value": "Lac",
+    "description": "The Lizard"
+  },
+  {
+    "text": "Leo",
+    "value": "Leo",
+    "description": "The Lion"
+  },
+  {
+    "text": "Leo Minor",
+    "value": "LMi",
+    "description": "The Lesser Lion"
+  },
+  {
+    "text": "Lepus",
+    "value": "Lep",
+    "description": "The Hare"
+  },
+  {
+    "text": "Libra",
+    "value": "Lib",
+    "description": "The Scales"
+  },
+  {
+    "text": "Lupus",
+    "value": "Lup",
+    "description": "The Wolf"
+  },
+  {
+    "text": "Lynx",
+    "value": "Lyn",
+    "description": "The Lynx"
+  },
+  {
+    "text": "Lyra",
+    "value": "Lyr",
+    "description": "The Lyre"
+  },
+  {
+    "text": "Mensa",
+    "value": "Men",
+    "description": "The Table Mountain"
+  },
+  {
+    "text": "Microscopium",
+    "value": "Mic",
+    "description": "The Microscope"
+  },
+  {
+    "text": "Monoceros",
+    "value": "Mon",
+    "description": "The Unicorn"
+  },
+  {
+    "text": "Musca",
+    "value": "Mus",
+    "description": "The Fly"
+  },
+  {
+    "text": "Norma",
+    "value": "Nor",
+    "description": "The Carpenter's Square"
+  },
+  {
+    "text": "Octans",
+    "value": "Oct",
+    "description": "The Octant"
+  },
+  {
+    "text": "Ophiuchus",
+    "value": "Oph",
+    "description": "The Serpent Bearer"
+  },
+  {
+    "text": "Orion",
+    "value": "Ori",
+    "description": "The Hunter"
+  },
+  {
+    "text": "Pavo",
+    "value": "Pav",
+    "description": "The Peacock"
+  },
+  {
+    "text": "Pegasus",
+    "value": "Peg",
+    "description": "The Winged Horse"
+  },
+  {
+    "text": "Perseus",
+    "value": "Per",
+    "description": "The Hero"
+  },
+  {
+    "text": "Phoenix",
+    "value": "Phe",
+    "description": "The Phoenix"
+  },
+  {
+    "text": "Pictor",
+    "value": "Pic",
+    "description": "The Painter's Easel"
+  },
+  {
+    "text": "Pisces",
+    "value": "Psc",
+    "description": "The Fishes"
+  },
+  {
+    "text": "Piscis Austrinus",
+    "value": "PsA",
+    "description": "The Southern Fish"
+  },
+  {
+    "text": "Puppis",
+    "value": "Pup",
+    "description": "The Stern"
+  },
+  {
+    "text": "Pyxis",
+    "value": "Pyx",
+    "description": "The Compass"
+  },
+  {
+    "text": "Reticulum",
+    "value": "Ret",
+    "description": "The Reticle"
+  },
+  {
+    "text": "Sagitta",
+    "value": "Sge",
+    "description": "The Arrow"
+  },
+  {
+    "text": "Sagittarius",
+    "value": "Sgr",
+    "description": "The Archer"
+  },
+  {
+    "text": "Scoprius",
+    "value": "Sco",
+    "description": "The Scorpion"
+  },
+  {
+    "text": "Sculptor",
+    "value": "Scl",
+    "description": "The Sculptor"
+  },
+  {
+    "text": "Scutum",
+    "value": "Sct",
+    "description": "The Shield"
+  },
+  {
+    "text": "Serpens",
+    "value": "Ser",
+    "description": "The Serpent"
+  },
+  {
+    "text": "Sextans",
+    "value": "Sex",
+    "description": "The Sextant"
+  },
+  {
+    "text": "Taurus",
+    "value": "Tau",
+    "description": "The Bull"
+  },
+  {
+    "text": "Telescopium",
+    "value": "Tel",
+    "description": "The Telescope"
+  },
+  {
+    "text": "Triangulum",
+    "value": "Tri",
+    "description": "The Triangle"
+  },
+  {
+    "text": "Triangulum Australe",
+    "value": "TrA",
+    "description": "The Southern Triangle"
+  },
+  {
+    "text": "Tucana",
+    "value": "Tuc",
+    "description": "The Toucan"
+  },
+  {
+    "text": "Ursa Major",
+    "value": "UMa",
+    "description": "The Great Bear"
+  },
+  {
+    "text": "Ursa Minor",
+    "value": "UMi",
+    "description": "The Little Bear"
+  },
+  {
+    "text": "Vela",
+    "value": "Vel",
+    "description": "The Sails"
+  },
+  {
+    "text": "Virgo",
+    "value": "Vir",
+    "description": "The Maiden"
+  },
+  {
+    "text": "Volans",
+    "value": "Vol",
+    "description": "The Flying Fish"
+  },
+  {
+    "text": "Vulpecula",
+    "value": "Vul",
+    "description": "The Fox"
+  }
+]
